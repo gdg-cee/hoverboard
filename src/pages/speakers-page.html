@@ -207,14 +207,16 @@
                 <div class="markdown-html"></div>
               </marked-element>
             </a>
-            <div class="card-actions">
-              <template is="dom-repeat" items="[[speaker.socials]]" as="social">
-                <a href="[[social.link]]" target="_blank" rel="noopener noreferrer">
-                  <paper-icon-button class="social-icon"
-                                     icon$="icons:{{social.icon}}"></paper-icon-button>
-                </a>
-              </template>
-            </div>
+            <template is="dom-if" if="[[speaker.socials.length]]">
+              <div class="card-actions">
+                <template is="dom-repeat" items="[[speaker.socials]]" as="social">
+                  <a href="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                    <paper-icon-button class="social-icon"
+                                       icon$="icons:{{social.icon}}"></paper-icon-button>
+                  </a>
+                </template>
+              </div>
+            </template>
           </paper-material>
         </div>
       </template>
