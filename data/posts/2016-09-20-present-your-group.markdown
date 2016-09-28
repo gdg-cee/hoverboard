@@ -4,4 +4,4 @@ Presentation should be maximum 2 minutes long - so be fun and creative. Things y
 
 To save some time not changing computer for each chapter (_and we have a whooping 30 chapters registered to the Summit!_) please cooperate with other GDG chapters from your country and glue them into one presentation per country.
 
-Please prepare the country glued presentation until 4th of October. Regarding where to send them, we will have a dedicated place for that very soon.
+Please prepare the country glued presentation until 4th of October and add them to https://goo.gl/4LjK5w
