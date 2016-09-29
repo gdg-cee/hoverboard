@@ -32,16 +32,16 @@
         "tabBarColor": "#fff"
       }
     },
-    "team": {
+    "cod": {
       "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
-    "cod": {
+    "transportation": {
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#009688",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -63,6 +63,10 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
+    },
+    {
+      "route": "transportation",
+      "permalink": "/transportation/"
     }
   ],
   "url": "https://hoverboard.firebaseapp.com/",
