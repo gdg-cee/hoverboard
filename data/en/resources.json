@@ -35,7 +35,7 @@
   "social-motto": "Add to circles, like, follow or connect with us on",
   "before-hashtag": "What's up",
   "click-to-view-photos": "Click here to view more photos",
-  "partners": "GDG Groups",
+  "partners": "Participating GDG Groups",
   "become-a-partner": "Become a partner",
   "template-creator": "Template creator",
   "general-partner": "General partner",
@@ -67,5 +67,15 @@
   "chapters": "Chapters",
   "organizers": "Organizers",
   "gdg-groups": "GDG Groups",
-  "present-group": "Present your group"
+  "present-group": "Present your group",
+  "ukraine":"Ukraine",
+  "czech-republic":"Czech Republic",
+  "belarus":"Belarus",
+  "latvia":"Latvia",
+  "romania":"Romania",
+  "croatia":"Croatia",
+  "serbia":"Serbia",
+  "moldova":"Moldova",
+  "lithuania":"Lithuania",
+  "poland":"Poland"
 }
