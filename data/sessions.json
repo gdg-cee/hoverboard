@@ -1,4 +1,10 @@
 {
+  "141": {
+    "id": 141,
+    "title": "Eastern party",
+    "description": "Our final party will happen at Campus. Bring drinks and snacks typical for your country and we will share.",
+    "image": "/images/backgrounds/party.jpg"
+  },
   "140": {
     "id": 140,
     "title": "Closing",
@@ -20,12 +26,12 @@
   "137": {
     "id": 137,
     "title": "Beer & Networking Activities",
-    "description": "Let's meet each other",
+    "description": "Let's meet each other at \"RESTAURACJA Praga Południe 8'MY KWADRAT\"",
     "image": "/images/backgrounds/party.jpg"
   },
   "136": {
     "id": 136,
-    "title": "Pecha Kucha Presentations",
+    "title": "Country Presentations",
     "description": "Each group presents themselves",
     "language": "English",
     "image": "/images/backgrounds/opening.jpg"
@@ -245,6 +251,18 @@
     "language": "English",
     "tags": [
       "Community"
+    ]
+  },
+  "114": {
+    "id": 114,
+    "title": "CEE Public Policy Analyst",
+    "description": "TBD",
+    "language": "English",
+    "speakers": [
+      16
+    ],
+    "tags": [
+      "Policy"
     ]
   }
 }

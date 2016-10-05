@@ -24,10 +24,10 @@
     "dateReadable": "October 8",
     "tracks": [
       {
-        "title": "Room 1"
+        "title": "Main event space"
       },
       {
-        "title": "Room 2"
+        "title": "Classroom"
       }
     ],
     "timeslots": [
@@ -46,6 +46,15 @@
         "sessions": [
           [
             139
+          ]
+        ]
+      },
+      {
+        "startTime": "10:15",
+        "endTime": "10:30",
+        "sessions": [
+          [
+            114
           ]
         ]
       },
@@ -171,7 +180,7 @@
         "endTime": "23:00",
         "sessions": [
           [
-            137
+            141
           ]
         ]
       }
@@ -182,10 +191,10 @@
     "dateReadable": "October 9",
     "tracks": [
       {
-        "title": "Room 1"
+        "title": "Main event space"
       },
       {
-        "title": "Room 2"
+        "title": "Classroom"
       }
     ],
     "timeslots": [

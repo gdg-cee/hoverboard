@@ -175,11 +175,11 @@
                          schedule="{{schedule}}"
                          sessions="{{sessions}}"></schedule-page>
 
-          <team-page name="team"
-                     app="{{app}}"></team-page>
-
           <cod-page name="cod"
                     app="{{app}}"></cod-page>
+
+          <transportation-page name="transportation"
+                    app="{{app}}"></transportation-page>
 
         </neon-animated-pages>
       </div>
@@ -273,8 +273,8 @@
             this.app.headerSettings.backgroundColor + ' 140%)';
           this.customStyle['--min-header-height'] = this.app.headerSettings.minHeight;
           document.getElementsByName('theme-color')[0].content = this.app.headerSettings.backgroundColor;
-          this.updateStyles();
-          this.async(this.$.header.resetLayout(), 1);
+          this.updateStyles(); 
+          this.$.header.resetLayout();
         },
 
         _pageChanged: function (page) {

@@ -70,7 +70,7 @@
     "id": 3,
     "featured": true,
     "name": "Kseniia Shumelchyk",
-    "company": "SoftServe Inc.",
+    "company": "GDG Dnipro",
     "companyLogo": "/images/logos/gdg-dnipro.svg",
     "country": "Ukraine",
     "photoUrl": "/images/people/kseniia_shumelchyk.jpg",
@@ -336,6 +336,23 @@
     "bio": "",
     "tags": [
       "Community"
+    ],
+    "socials": [
+
+    ]
+  },
+  "16": {
+    "id": 16,
+    "featured": true,
+    "name": "Adam Malczak",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "country": "Poland",
+    "photoUrl": "/images/people/adam_malczak.png",
+    "shortBio": "",
+    "bio": "Works as a Policy Analyst at Google covering Central and Eastern Europe. He is responsible for cooperation in the New Europe 100 project. Graduate of King’s College London and London School of Economics and Political Science.",
+    "tags": [
+      "Policy"
     ],
     "socials": [
 
