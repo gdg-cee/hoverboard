@@ -1,22 +1,11 @@
-## Hotel address
-[Best Wester Hotel Felix](http://www.bwfelix.pl/en/) is on [Omulewska 24 street](https://goo.gl/maps/BrqtFjpC7go). Below You can find all maps.
+## Important locations
+* [Chopin Airport](https://www.google.com/maps/place/Warsaw+Chopin+Airport/@52.1687414,20.9688124,15.75z/data=!4m5!3m4!1s0x0:0x22c5f5a26843e8d1!8m2!3d52.1672463!4d20.9678793) (Żwirki i Wigury 1 street)
+* [Best Western Hotel Felix](https://www.google.com/maps/place/BEST+WESTERN+Hotel+Felix/@52.2415637,21.0972427,17.25z/data=!4m5!3m4!1s0x0:0x69e2c69a8c155626!8m2!3d52.2414799!4d21.0968292) (Omulewska 24 street)
+* [8MY Kwadrat Restaurant](https://www.google.com/maps/place/Restauracja+Praga+Po%C5%82udnie+-+8MY+Kwadrat/@52.2277738,21.0775714,17.25z/data=!4m5!3m4!1s0x0:0x820e9406c34f6648!8m2!3d52.2279144!4d21.0780054) (gen. Tadeusza Bora-Komorowskiego 56a street)
+* [Campus Warsaw](https://www.google.com/maps/place/Campus+Warsaw/@52.2549119,21.0423476,17z/data=!3m1!4b1!4m5!3m4!1s0x471ecc381e2e240b:0x988fcf62650cd8c5!8m2!3d52.2549086!4d21.0445363) (Ząbkowska 27/31 street)
 
-## How can You get to the hotel from the airport?
-If You want to travel by public communication and admire Warsaw, You have to take bus number 175 to the Main Station. Here You change transport to tram number 9 or 24 direction Gocławek. You get off at the bus stop called Wspólna Droga.
-Or just take a taxi :)
-
-**GDG CEE Summit meeting starts on 07.10** in Warsaw's pub called [8'MY Kwadrat](http://8mykwadrat.pl/). It is on [gen. Tadeusza Bora-Komorowskiego 56](https://goo.gl/maps/BEYfoTZJyxB2) a street. We will order for participations some beers. In the pub, You can also find something to eat, but in this case, You will cover the bill by Yourself.
-
-**The next day 08.10** we all meet on [Google Campus](https://goo.gl/maps/XipGQnP1ZmD2). The registration starts at 9.00 am.
-Then at about 07.00 pm. we will spend lovely leisure time also on Campus. You will have the opportunity to taste traditional Polish cuisine. **You can take with You some delicious things from Your country** (remember that on the plane board You can't take bottles of vodka :) - You have small luggage).
-
-## Here are all maps:
-Airport - Hotel
-* https://goo.gl/maps/QNsVAuY1svq
-* http://bit.ly/2drloyQ
-
-Hotel - Pub
-* https://goo.gl/maps/FTsrxrsrCB92
-
-Hotel - Campus
-* https://goo.gl/maps/mqkxfTjhrPx
+## Transportation options
+* [Airport to Hotel](https://www.google.com/maps/dir/Chopin+Airport,+%C5%BBwirki+i+Wigury,+Warsaw,+Poland/BEST+WESTERN+Hotel+Felix,+Omulewska+24,+04-128+Warszawa,+Poland/@52.2087809,20.9980617,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4719331c42e95ce3:0x22c5f5a26843e8d1!2m2!1d20.9678911!2d52.1672369!1m5!1m1!1s0x471ecd9376a3f5a3:0x69e2c69a8c155626!2m2!1d21.0968294!2d52.2414797!3e3) - take bus 188 (or Uber)
+* [Hotel to First Day Beer Spot](https://www.google.com/maps/dir/BEST+WESTERN+Hotel+Felix,+Omulewska,+Warsaw,+Poland/Restauracja+Praga+Po%C5%82udnie+-+8MY+Kwadrat,+gen.+Tadeusza+Bora-Komorowskiego+56a,+03-982+Warszawa,+Poland/@52.2324151,21.0803852,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x471ecd9376a3f5a3:0x69e2c69a8c155626!2m2!1d21.0968294!2d52.2414797!1m5!1m1!1s0x471ecd9f9f88784f:0x820e9406c34f6648!2m2!1d21.0780045!2d52.227913!3e3) - take bus 182 (or walk - It’s only 2,2km)
+* [Hotel to Campus](https://www.google.com/maps/dir/BEST+WESTERN+Hotel+Felix,+Omulewska,+Warsaw,+Poland/Campus+Warsaw,+Z%C4%85bkowska+27%2F31,+03-736+Warszawa,+Poland/@52.2465117,21.0499889,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x471ecd9376a3f5a3:0x69e2c69a8c155626!2m2!1d21.0968294!2d52.2414797!1m5!1m1!1s0x471ecc381e2e240b:0x988fcf62650cd8c5!2m2!1d21.0445363!2d52.2549086!3e3) - take tram 6
+* [Campus to Airport](https://www.google.com/maps/dir/Campus+Warsaw,+Z%C4%85bkowska+27%2F31,+03-736+Warszawa,+Poland/Chopin+Airport,+%C5%BBwirki+i+Wigury,+Warsaw,+Poland/@52.2111876,20.9604061,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x471ecc381e2e240b:0x988fcf62650cd8c5!2m2!1d21.0445363!2d52.2549086!1m5!1m1!1s0x4719331c42e95ce3:0x22c5f5a26843e8d1!2m2!1d20.9678911!2d52.1672369!3e3) - take train S2 (or Uber)
