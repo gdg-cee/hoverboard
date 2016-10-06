@@ -285,8 +285,8 @@
     "companyLogo": "/images/logos/gdg-kyiv.svg",
     "country": "Ukraine",
     "photoUrl": "/images/people/volodymyr_ivanov.jpg",
-    "shortBio": "Founder and coordinator of the first Google Developer Group in Ukraine - GDG Kyiv-Center",
-    "bio": "Founder and coordinator of the first Google Developer Group in Ukraine - GDG Kyiv-Center. Community manager of the Ukrainian Google developer program, a prominent member of the Ukrainian and international GDG communities, organizer of the first Ukrainian Hackathon, author and co-organizer of DevFest Ukraine 2012-13.",
+    "shortBio": "Founder and coordinator of the first Google Developer Group in Ukraine - GDG Kyiv-Center (since 2009)",
+    "bio": "Founder and coordinator of the first Google Developer Group in Ukraine - GDG Kyiv-Center (since 2009). Community manager аnd a prominent member of the Ukrainian and international GDG communities, organizer of the first Ukrainian Hackathon, initiator and co-organizer of first DevFests Ukraine 2012-13.",
     "tags": [
       "Cooperation"
     ],
@@ -295,7 +295,13 @@
         "icon": "gplus",
         "name": "Google+",
         "link": "https://plus.google.com/u/0/+VladimirIvanovUA/about"
-      }
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/s_kibish",
+        "name": "Twitter"
+      },
+
     ]
   },
   "13": {
@@ -319,8 +325,13 @@
       },
       {
         "icon": "twitter",
-        "link": "https://twitter.com/s_kibish",
+        "link": "https://twitter.com/elgephest",
         "name": "Twitter"
+      },
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/ivanov.vlad ",
+        "name": "Facebook"
       }
     ]
   },
@@ -348,7 +359,7 @@
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "country": "Poland",
-    "photoUrl": "/images/people/adam_malczak.png",
+    "photoUrl": "/images/people/adam_malczak.jpg",
     "shortBio": "",
     "bio": "Works as a Policy Analyst at Google covering Central and Eastern Europe. He is responsible for cooperation in the New Europe 100 project. Graduate of King’s College London and London School of Economics and Political Science.",
     "tags": [
